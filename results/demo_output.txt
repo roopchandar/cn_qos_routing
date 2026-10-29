@@ -1,0 +1,41 @@
+Demo flow R0 -> R9 at 4.0 Mbps; background load 0.6; link R4-R7 at 20% bandwidth during 700-1400 ms
+
+=== Shortest Path ===
+  network: delay 44.7 ms | PDR 0.602 | loss 0.398 | throughput 11.31 Mbps | jitter 2.09 ms
+  demo flow before    (t=0-700 ms): avg delay 38.9 ms, delivered 310
+      100.0%  R0 -> R1 -> R4 -> R7 -> R9
+  demo flow during    (t=700-1400 ms): avg delay 155.1 ms, delivered 68
+      100.0%  R0 -> R1 -> R4 -> R7 -> R9
+  demo flow after     (t=1400-2000 ms): avg delay 51.9 ms, delivered 279
+      100.0%  R0 -> R1 -> R4 -> R7 -> R9
+
+=== Congestion-Aware ===
+  network: delay 14.8 ms | PDR 1.000 | loss 0.000 | throughput 18.32 Mbps | jitter 4.88 ms
+  demo flow before    (t=0-700 ms): avg delay 17.0 ms, delivered 347
+       39.5%  R0 -> R1 -> R4 -> R7 -> R9
+       24.5%  R0 -> R2 -> R5 -> R7 -> R9
+       11.5%  R0 -> R2 -> R1 -> R4 -> R7 -> R9
+  demo flow during    (t=700-1400 ms): avg delay 22.8 ms, delivered 348
+       20.1%  R0 -> R2 -> R5 -> R8 -> R9
+       18.4%  R0 -> R2 -> R5 -> R7 -> R9
+       13.2%  R0 -> R3 -> R6 -> R8 -> R9
+  demo flow after     (t=1400-2000 ms): avg delay 17.0 ms, delivered 317
+       40.4%  R0 -> R1 -> R4 -> R7 -> R9
+       23.3%  R0 -> R2 -> R5 -> R7 -> R9
+       10.7%  R0 -> R2 -> R5 -> R8 -> R9
+
+=== DQN ===
+  network: delay 11.6 ms | PDR 1.000 | loss 0.000 | throughput 18.32 Mbps | jitter 1.97 ms
+  demo flow before    (t=0-700 ms): avg delay 12.9 ms, delivered 347
+       63.1%  R0 -> R1 -> R4 -> R7 -> R9
+       33.4%  R0 -> R2 -> R5 -> R7 -> R9
+        2.6%  R0 -> R2 -> R5 -> R8 -> R9
+  demo flow during    (t=700-1400 ms): avg delay 16.7 ms, delivered 348
+       36.2%  R0 -> R1 -> R4 -> R5 -> R7 -> R9
+       26.4%  R0 -> R2 -> R5 -> R7 -> R9
+       12.6%  R0 -> R2 -> R5 -> R8 -> R9
+  demo flow after     (t=1400-2000 ms): avg delay 12.5 ms, delivered 317
+       60.6%  R0 -> R1 -> R4 -> R7 -> R9
+       38.5%  R0 -> R2 -> R5 -> R7 -> R9
+        0.9%  R0 -> R2 -> R5 -> R8 -> R9
+

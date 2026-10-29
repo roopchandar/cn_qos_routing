@@ -1,0 +1,303 @@
+State dim 65, actions 4, backend numpy, episodes 300
+ep    1 | load 1.22 | R/pkt   8.290 | eps 0.995 | PDR 1.000 | delay   17.1 ms | val  | 2.2s
+ep    2 | load 0.87 | R/pkt   7.951 | eps 0.989 | PDR 1.000 | delay   20.5 ms | val  | 3.42s
+ep    3 | load 0.39 | R/pkt   8.453 | eps 0.984 | PDR 1.000 | delay   15.5 ms | val  | 2.69s
+ep    4 | load 1.44 | R/pkt   3.269 | eps 0.979 | PDR 0.883 | delay   42.3 ms | val  | 3.49s
+ep    5 | load 1.54 | R/pkt   0.663 | eps 0.974 | PDR 0.813 | delay   53.0 ms | val  | 3.09s
+ep    6 | load 0.75 | R/pkt   8.338 | eps 0.968 | PDR 1.000 | delay   16.6 ms | val  | 2.49s
+ep    7 | load 1.30 | R/pkt   6.944 | eps 0.963 | PDR 0.993 | delay   27.0 ms | val  | 2.78s
+ep    8 | load 1.00 | R/pkt   5.519 | eps 0.958 | PDR 0.972 | delay   34.6 ms | val  | 2.95s
+ep    9 | load 0.52 | R/pkt   8.358 | eps 0.953 | PDR 1.000 | delay   16.4 ms | val  | 2.57s
+ep   10 | load 1.57 | R/pkt   4.022 | eps 0.947 | PDR 0.889 | delay   37.0 ms | val 7.448* | 3.17s
+ep   11 | load 0.97 | R/pkt   6.492 | eps 0.942 | PDR 0.987 | delay   29.8 ms | val  | 3.35s
+ep   12 | load 1.15 | R/pkt   7.035 | eps 0.937 | PDR 0.963 | delay   22.7 ms | val  | 2.84s
+ep   13 | load 0.97 | R/pkt   5.177 | eps 0.931 | PDR 0.971 | delay   37.4 ms | val  | 2.87s
+ep   14 | load 0.46 | R/pkt   8.459 | eps 0.926 | PDR 1.000 | delay   15.4 ms | val  | 2.69s
+ep   15 | load 1.94 | R/pkt  -6.032 | eps 0.921 | PDR 0.615 | delay   83.0 ms | val  | 3.31s
+ep   16 | load 0.68 | R/pkt   8.314 | eps 0.916 | PDR 1.000 | delay   16.9 ms | val  | 2.8s
+ep   17 | load 0.30 | R/pkt   8.265 | eps 0.910 | PDR 1.000 | delay   17.3 ms | val  | 2.51s
+ep   18 | load 1.77 | R/pkt   7.277 | eps 0.905 | PDR 0.987 | delay   23.9 ms | val  | 2.9s
+ep   19 | load 0.43 | R/pkt   8.152 | eps 0.900 | PDR 1.000 | delay   18.5 ms | val  | 2.93s
+ep   20 | load 1.89 | R/pkt  -4.839 | eps 0.894 | PDR 0.671 | delay   79.4 ms | val 7.715* | 3.33s
+ep   21 | load 1.83 | R/pkt   6.299 | eps 0.889 | PDR 0.969 | delay   28.9 ms | val  | 3.06s
+ep   22 | load 0.43 | R/pkt   8.252 | eps 0.884 | PDR 1.000 | delay   17.5 ms | val  | 2.71s
+ep   23 | load 1.30 | R/pkt   0.455 | eps 0.879 | PDR 0.884 | delay   62.1 ms | val  | 3.43s
+ep   24 | load 0.71 | R/pkt   7.989 | eps 0.873 | PDR 1.000 | delay   20.1 ms | val  | 3.27s
+ep   25 | load 0.74 | R/pkt   1.240 | eps 0.868 | PDR 0.769 | delay   46.1 ms | val  | 3.16s
+ep   26 | load 0.69 | R/pkt   8.077 | eps 0.863 | PDR 1.000 | delay   19.2 ms | val  | 2.76s
+ep   27 | load 1.46 | R/pkt   8.533 | eps 0.858 | PDR 1.000 | delay   14.7 ms | val  | 3.08s
+ep   28 | load 1.28 | R/pkt   3.942 | eps 0.852 | PDR 0.869 | delay   35.1 ms | val  | 3.37s
+ep   29 | load 1.09 | R/pkt   3.403 | eps 0.847 | PDR 0.898 | delay   40.3 ms | val  | 3.31s
+ep   30 | load 1.95 | R/pkt  -4.130 | eps 0.842 | PDR 0.688 | delay   73.4 ms | val 7.678 | 3.2s
+ep   31 | load 1.11 | R/pkt   1.583 | eps 0.836 | PDR 0.891 | delay   53.0 ms | val  | 3.26s
+ep   32 | load 1.16 | R/pkt   7.097 | eps 0.831 | PDR 0.997 | delay   27.9 ms | val  | 3.05s
+ep   33 | load 0.41 | R/pkt   8.293 | eps 0.826 | PDR 1.000 | delay   17.1 ms | val  | 2.64s
+ep   34 | load 0.77 | R/pkt   8.072 | eps 0.821 | PDR 1.000 | delay   19.3 ms | val  | 2.7s
+ep   35 | load 1.79 | R/pkt   1.526 | eps 0.815 | PDR 0.804 | delay   45.8 ms | val  | 3.09s
+ep   36 | load 1.15 | R/pkt   5.365 | eps 0.810 | PDR 0.941 | delay   32.5 ms | val  | 3.0s
+ep   37 | load 0.55 | R/pkt   7.568 | eps 0.805 | PDR 0.988 | delay   20.7 ms | val  | 2.84s
+ep   38 | load 0.99 | R/pkt   6.897 | eps 0.799 | PDR 0.981 | delay   27.3 ms | val  | 3.06s
+ep   39 | load 1.44 | R/pkt   0.628 | eps 0.794 | PDR 0.891 | delay   59.7 ms | val  | 3.16s
+ep   40 | load 1.43 | R/pkt   8.355 | eps 0.789 | PDR 1.000 | delay   16.5 ms | val 7.838* | 2.95s
+ep   41 | load 0.50 | R/pkt   8.803 | eps 0.784 | PDR 1.000 | delay   12.0 ms | val  | 2.88s
+ep   42 | load 1.03 | R/pkt   5.720 | eps 0.778 | PDR 0.942 | delay   32.1 ms | val  | 3.12s
+ep   43 | load 0.77 | R/pkt   8.239 | eps 0.773 | PDR 1.000 | delay   17.6 ms | val  | 2.57s
+ep   44 | load 0.80 | R/pkt   8.626 | eps 0.768 | PDR 1.000 | delay   13.7 ms | val  | 2.8s
+ep   45 | load 1.63 | R/pkt  -1.853 | eps 0.762 | PDR 0.761 | delay   63.6 ms | val  | 3.5s
+ep   46 | load 1.01 | R/pkt   5.518 | eps 0.757 | PDR 0.919 | delay   30.9 ms | val  | 3.22s
+ep   47 | load 0.35 | R/pkt   8.420 | eps 0.752 | PDR 1.000 | delay   15.8 ms | val  | 3.0s
+ep   48 | load 1.53 | R/pkt  -0.802 | eps 0.747 | PDR 0.809 | delay   59.7 ms | val  | 3.8s
+ep   49 | load 1.32 | R/pkt   5.301 | eps 0.741 | PDR 0.957 | delay   35.7 ms | val  | 3.39s
+ep   50 | load 1.98 | R/pkt  -0.499 | eps 0.736 | PDR 0.798 | delay   60.2 ms | val 7.619 | 3.53s
+ep   51 | load 1.86 | R/pkt   8.478 | eps 0.731 | PDR 1.000 | delay   15.2 ms | val  | 3.23s
+ep   52 | load 0.90 | R/pkt   8.473 | eps 0.726 | PDR 1.000 | delay   15.3 ms | val  | 3.16s
+ep   53 | load 1.59 | R/pkt   8.703 | eps 0.720 | PDR 1.000 | delay   13.0 ms | val  | 2.96s
+ep   54 | load 1.10 | R/pkt   6.761 | eps 0.715 | PDR 0.982 | delay   28.1 ms | val  | 3.34s
+ep   55 | load 1.78 | R/pkt  -1.280 | eps 0.710 | PDR 0.788 | delay   60.1 ms | val  | 3.27s
+ep   56 | load 0.73 | R/pkt   8.317 | eps 0.704 | PDR 1.000 | delay   16.8 ms | val  | 3.13s
+ep   57 | load 0.52 | R/pkt   7.336 | eps 0.699 | PDR 0.997 | delay   24.8 ms | val  | 3.12s
+ep   58 | load 0.36 | R/pkt   8.287 | eps 0.694 | PDR 1.000 | delay   17.1 ms | val  | 2.98s
+ep   59 | load 1.60 | R/pkt   0.814 | eps 0.689 | PDR 0.845 | delay   52.4 ms | val  | 3.42s
+ep   60 | load 0.38 | R/pkt   8.475 | eps 0.683 | PDR 1.000 | delay   15.2 ms | val 7.892* | 2.91s
+ep   61 | load 1.36 | R/pkt   8.646 | eps 0.678 | PDR 1.000 | delay   13.5 ms | val  | 3.13s
+ep   62 | load 1.73 | R/pkt   7.544 | eps 0.673 | PDR 0.993 | delay   22.2 ms | val  | 3.42s
+ep   63 | load 0.87 | R/pkt   8.821 | eps 0.667 | PDR 1.000 | delay   11.8 ms | val  | 2.84s
+ep   64 | load 0.96 | R/pkt   4.234 | eps 0.662 | PDR 0.915 | delay   34.3 ms | val  | 2.94s
+ep   65 | load 1.03 | R/pkt   7.139 | eps 0.657 | PDR 0.985 | delay   25.0 ms | val  | 3.14s
+ep   66 | load 0.30 | R/pkt   8.518 | eps 0.652 | PDR 1.000 | delay   14.8 ms | val  | 2.74s
+ep   67 | load 1.67 | R/pkt  -0.738 | eps 0.646 | PDR 0.796 | delay   59.4 ms | val  | 3.43s
+ep   68 | load 0.98 | R/pkt   8.427 | eps 0.641 | PDR 1.000 | delay   15.7 ms | val  | 2.89s
+ep   69 | load 0.38 | R/pkt   8.524 | eps 0.636 | PDR 1.000 | delay   14.8 ms | val  | 2.77s
+ep   70 | load 1.46 | R/pkt   8.466 | eps 0.631 | PDR 1.000 | delay   15.3 ms | val 7.764 | 3.18s
+ep   71 | load 1.75 | R/pkt   8.415 | eps 0.625 | PDR 1.000 | delay   15.8 ms | val  | 3.22s
+ep   72 | load 0.43 | R/pkt   8.543 | eps 0.620 | PDR 1.000 | delay   14.6 ms | val  | 3.14s
+ep   73 | load 0.62 | R/pkt   8.763 | eps 0.615 | PDR 1.000 | delay   12.4 ms | val  | 3.21s
+ep   74 | load 0.33 | R/pkt   8.886 | eps 0.609 | PDR 1.000 | delay   11.1 ms | val  | 3.39s
+ep   75 | load 1.70 | R/pkt   8.475 | eps 0.604 | PDR 1.000 | delay   15.2 ms | val  | 3.26s
+ep   76 | load 0.71 | R/pkt   8.847 | eps 0.599 | PDR 1.000 | delay   11.5 ms | val  | 2.83s
+ep   77 | load 1.69 | R/pkt   8.944 | eps 0.594 | PDR 1.000 | delay   10.6 ms | val  | 2.83s
+ep   78 | load 1.31 | R/pkt   8.651 | eps 0.588 | PDR 1.000 | delay   13.5 ms | val  | 3.28s
+ep   79 | load 1.19 | R/pkt   8.900 | eps 0.583 | PDR 1.000 | delay   11.0 ms | val  | 3.07s
+ep   80 | load 0.39 | R/pkt   8.369 | eps 0.578 | PDR 1.000 | delay   16.3 ms | val 7.855 | 3.38s
+ep   81 | load 0.82 | R/pkt   8.893 | eps 0.573 | PDR 1.000 | delay   11.1 ms | val  | 3.16s
+ep   82 | load 1.20 | R/pkt   8.122 | eps 0.567 | PDR 1.000 | delay   18.8 ms | val  | 3.45s
+ep   83 | load 0.70 | R/pkt   8.541 | eps 0.562 | PDR 1.000 | delay   14.6 ms | val  | 3.33s
+ep   84 | load 1.36 | R/pkt   8.219 | eps 0.557 | PDR 1.000 | delay   17.8 ms | val  | 3.24s
+ep   85 | load 0.56 | R/pkt   8.995 | eps 0.551 | PDR 1.000 | delay   10.0 ms | val  | 3.15s
+ep   86 | load 1.44 | R/pkt   6.757 | eps 0.546 | PDR 0.960 | delay   23.3 ms | val  | 3.83s
+ep   87 | load 1.99 | R/pkt  -2.472 | eps 0.541 | PDR 0.719 | delay   62.3 ms | val  | 3.52s
+ep   88 | load 1.96 | R/pkt   5.671 | eps 0.536 | PDR 0.964 | delay   30.4 ms | val  | 3.09s
+ep   89 | load 0.39 | R/pkt   8.675 | eps 0.530 | PDR 1.000 | delay   13.2 ms | val  | 3.12s
+ep   90 | load 1.98 | R/pkt   5.532 | eps 0.525 | PDR 0.966 | delay   30.3 ms | val 7.83 | 3.04s
+ep   91 | load 1.55 | R/pkt   1.935 | eps 0.520 | PDR 0.873 | delay   45.9 ms | val  | 3.5s
+ep   92 | load 0.96 | R/pkt   8.375 | eps 0.514 | PDR 1.000 | delay   16.3 ms | val  | 3.28s
+ep   93 | load 1.25 | R/pkt   8.469 | eps 0.509 | PDR 1.000 | delay   15.3 ms | val  | 3.43s
+ep   94 | load 1.63 | R/pkt   0.410 | eps 0.504 | PDR 0.846 | delay   54.0 ms | val  | 3.72s
+ep   95 | load 0.54 | R/pkt   8.620 | eps 0.499 | PDR 1.000 | delay   13.8 ms | val  | 3.24s
+ep   96 | load 0.36 | R/pkt   8.674 | eps 0.493 | PDR 1.000 | delay   13.3 ms | val  | 3.18s
+ep   97 | load 1.95 | R/pkt   8.898 | eps 0.488 | PDR 1.000 | delay   11.0 ms | val  | 3.1s
+ep   98 | load 1.81 | R/pkt   4.130 | eps 0.483 | PDR 0.880 | delay   31.6 ms | val  | 3.51s
+ep   99 | load 0.69 | R/pkt   9.143 | eps 0.477 | PDR 1.000 | delay    8.6 ms | val  | 3.03s
+ep  100 | load 0.31 | R/pkt   8.679 | eps 0.472 | PDR 1.000 | delay   13.2 ms | val 7.791 | 3.11s
+ep  101 | load 0.84 | R/pkt   7.746 | eps 0.467 | PDR 0.998 | delay   21.3 ms | val  | 3.66s
+ep  102 | load 0.63 | R/pkt   2.890 | eps 0.462 | PDR 0.865 | delay   37.1 ms | val  | 3.47s
+ep  103 | load 1.10 | R/pkt   9.239 | eps 0.456 | PDR 1.000 | delay    7.6 ms | val  | 3.15s
+ep  104 | load 0.42 | R/pkt   8.938 | eps 0.451 | PDR 1.000 | delay   10.6 ms | val  | 3.21s
+ep  105 | load 0.67 | R/pkt   8.868 | eps 0.446 | PDR 1.000 | delay   11.3 ms | val  | 3.02s
+ep  106 | load 0.94 | R/pkt   9.098 | eps 0.441 | PDR 1.000 | delay    9.0 ms | val  | 3.23s
+ep  107 | load 0.72 | R/pkt   8.590 | eps 0.435 | PDR 1.000 | delay   14.1 ms | val  | 3.9s
+ep  108 | load 1.07 | R/pkt   9.191 | eps 0.430 | PDR 1.000 | delay    8.1 ms | val  | 3.62s
+ep  109 | load 0.75 | R/pkt   4.712 | eps 0.425 | PDR 0.902 | delay   29.4 ms | val  | 3.54s
+ep  110 | load 0.55 | R/pkt   5.047 | eps 0.419 | PDR 0.921 | delay   28.4 ms | val 7.762 | 3.42s
+ep  111 | load 1.32 | R/pkt   7.871 | eps 0.414 | PDR 1.000 | delay   20.8 ms | val  | 3.37s
+ep  112 | load 1.69 | R/pkt   9.255 | eps 0.409 | PDR 1.000 | delay    7.4 ms | val  | 3.14s
+ep  113 | load 0.36 | R/pkt   8.799 | eps 0.404 | PDR 1.000 | delay   12.0 ms | val  | 2.99s
+ep  114 | load 0.49 | R/pkt   8.564 | eps 0.398 | PDR 1.000 | delay   14.4 ms | val  | 3.45s
+ep  115 | load 0.54 | R/pkt   8.775 | eps 0.393 | PDR 1.000 | delay   12.3 ms | val  | 3.21s
+ep  116 | load 0.50 | R/pkt   8.649 | eps 0.388 | PDR 1.000 | delay   13.5 ms | val  | 3.23s
+ep  117 | load 1.08 | R/pkt   8.645 | eps 0.383 | PDR 1.000 | delay   13.5 ms | val  | 3.25s
+ep  118 | load 0.91 | R/pkt   8.846 | eps 0.377 | PDR 1.000 | delay   11.5 ms | val  | 3.0s
+ep  119 | load 0.92 | R/pkt   7.931 | eps 0.372 | PDR 1.000 | delay   20.6 ms | val  | 3.3s
+ep  120 | load 1.33 | R/pkt   8.075 | eps 0.367 | PDR 1.000 | delay   19.2 ms | val 7.822 | 4.04s
+ep  121 | load 1.32 | R/pkt   9.307 | eps 0.361 | PDR 1.000 | delay    6.9 ms | val  | 3.13s
+ep  122 | load 0.51 | R/pkt   8.940 | eps 0.356 | PDR 1.000 | delay   10.6 ms | val  | 3.23s
+ep  123 | load 1.65 | R/pkt   9.195 | eps 0.351 | PDR 1.000 | delay    8.0 ms | val  | 3.3s
+ep  124 | load 1.98 | R/pkt  -0.187 | eps 0.346 | PDR 0.781 | delay   49.5 ms | val  | 3.6s
+ep  125 | load 1.01 | R/pkt   8.698 | eps 0.340 | PDR 1.000 | delay   13.0 ms | val  | 3.34s
+ep  126 | load 1.59 | R/pkt   8.522 | eps 0.335 | PDR 1.000 | delay   14.7 ms | val  | 3.21s
+ep  127 | load 0.49 | R/pkt   8.793 | eps 0.330 | PDR 1.000 | delay   12.1 ms | val  | 3.1s
+ep  128 | load 0.41 | R/pkt   8.848 | eps 0.324 | PDR 1.000 | delay   11.5 ms | val  | 3.16s
+ep  129 | load 0.51 | R/pkt   8.830 | eps 0.319 | PDR 1.000 | delay   11.7 ms | val  | 3.07s
+ep  130 | load 1.25 | R/pkt   8.540 | eps 0.314 | PDR 1.000 | delay   14.6 ms | val 7.785 | 3.43s
+ep  131 | load 1.27 | R/pkt   9.139 | eps 0.309 | PDR 1.000 | delay    8.6 ms | val  | 3.53s
+ep  132 | load 1.14 | R/pkt   9.098 | eps 0.303 | PDR 1.000 | delay    9.0 ms | val  | 3.58s
+ep  133 | load 0.58 | R/pkt   8.858 | eps 0.298 | PDR 1.000 | delay   11.4 ms | val  | 3.31s
+ep  134 | load 1.99 | R/pkt   3.703 | eps 0.293 | PDR 0.816 | delay   26.4 ms | val  | 3.74s
+ep  135 | load 0.74 | R/pkt   9.383 | eps 0.287 | PDR 1.000 | delay    6.2 ms | val  | 3.12s
+ep  136 | load 1.71 | R/pkt   2.986 | eps 0.282 | PDR 0.865 | delay   35.5 ms | val  | 3.66s
+ep  137 | load 1.90 | R/pkt   1.300 | eps 0.277 | PDR 0.804 | delay   43.6 ms | val  | 3.6s
+ep  138 | load 1.52 | R/pkt   8.810 | eps 0.272 | PDR 1.000 | delay   11.9 ms | val  | 3.21s
+ep  139 | load 1.23 | R/pkt   8.866 | eps 0.266 | PDR 1.000 | delay   11.3 ms | val  | 3.12s
+ep  140 | load 1.43 | R/pkt   8.977 | eps 0.261 | PDR 1.000 | delay   10.2 ms | val 7.824 | 3.31s
+ep  141 | load 0.57 | R/pkt   8.888 | eps 0.256 | PDR 1.000 | delay   11.1 ms | val  | 3.36s
+ep  142 | load 0.47 | R/pkt   8.895 | eps 0.251 | PDR 1.000 | delay   11.0 ms | val  | 3.13s
+ep  143 | load 1.84 | R/pkt   2.719 | eps 0.245 | PDR 0.838 | delay   34.3 ms | val  | 3.47s
+ep  144 | load 1.63 | R/pkt   9.141 | eps 0.240 | PDR 1.000 | delay    8.6 ms | val  | 3.15s
+ep  145 | load 0.85 | R/pkt   8.833 | eps 0.235 | PDR 1.000 | delay   11.7 ms | val  | 3.67s
+ep  146 | load 1.36 | R/pkt   6.270 | eps 0.229 | PDR 0.986 | delay   30.8 ms | val  | 3.82s
+ep  147 | load 1.16 | R/pkt   8.404 | eps 0.224 | PDR 1.000 | delay   15.8 ms | val  | 3.47s
+ep  148 | load 0.38 | R/pkt   9.129 | eps 0.219 | PDR 1.000 | delay    8.7 ms | val  | 3.21s
+ep  149 | load 0.64 | R/pkt   8.785 | eps 0.214 | PDR 1.000 | delay   12.1 ms | val  | 3.29s
+ep  150 | load 0.67 | R/pkt   8.888 | eps 0.208 | PDR 1.000 | delay   11.1 ms | val 7.857 | 3.25s
+ep  151 | load 1.15 | R/pkt   9.170 | eps 0.203 | PDR 1.000 | delay    8.3 ms | val  | 3.27s
+ep  152 | load 0.46 | R/pkt   8.944 | eps 0.198 | PDR 1.000 | delay   10.6 ms | val  | 3.45s
+ep  153 | load 0.53 | R/pkt   9.228 | eps 0.193 | PDR 1.000 | delay    7.7 ms | val  | 3.33s
+ep  154 | load 1.87 | R/pkt   1.262 | eps 0.187 | PDR 0.838 | delay   45.9 ms | val  | 3.56s
+ep  155 | load 1.19 | R/pkt   8.830 | eps 0.182 | PDR 1.000 | delay   11.7 ms | val  | 3.53s
+ep  156 | load 1.26 | R/pkt   4.541 | eps 0.177 | PDR 0.884 | delay   26.4 ms | val  | 3.33s
+ep  157 | load 1.05 | R/pkt   9.552 | eps 0.171 | PDR 1.000 | delay    4.5 ms | val  | 3.31s
+ep  158 | load 1.96 | R/pkt   0.628 | eps 0.166 | PDR 0.804 | delay   46.7 ms | val  | 3.78s
+ep  159 | load 0.98 | R/pkt   8.875 | eps 0.161 | PDR 1.000 | delay   11.2 ms | val  | 3.55s
+ep  160 | load 1.97 | R/pkt   8.867 | eps 0.156 | PDR 1.000 | delay   11.3 ms | val 7.812 | 3.8s
+ep  161 | load 0.35 | R/pkt   8.954 | eps 0.150 | PDR 1.000 | delay   10.5 ms | val  | 3.33s
+ep  162 | load 1.62 | R/pkt   9.070 | eps 0.145 | PDR 1.000 | delay    9.3 ms | val  | 3.65s
+ep  163 | load 0.36 | R/pkt   9.436 | eps 0.140 | PDR 1.000 | delay    5.6 ms | val  | 3.5s
+ep  164 | load 0.84 | R/pkt   9.445 | eps 0.134 | PDR 1.000 | delay    5.5 ms | val  | 3.35s
+ep  165 | load 0.96 | R/pkt   8.826 | eps 0.129 | PDR 1.000 | delay   11.7 ms | val  | 3.3s
+ep  166 | load 1.00 | R/pkt   4.865 | eps 0.124 | PDR 0.896 | delay   25.2 ms | val  | 3.78s
+ep  167 | load 1.15 | R/pkt   8.720 | eps 0.119 | PDR 1.000 | delay   12.8 ms | val  | 3.62s
+ep  168 | load 1.39 | R/pkt   3.792 | eps 0.113 | PDR 0.871 | delay   31.7 ms | val  | 3.29s
+ep  169 | load 1.20 | R/pkt   9.078 | eps 0.108 | PDR 1.000 | delay    9.2 ms | val  | 3.17s
+ep  170 | load 1.27 | R/pkt   8.800 | eps 0.103 | PDR 1.000 | delay   12.0 ms | val 7.843 | 3.44s
+ep  171 | load 1.08 | R/pkt   9.225 | eps 0.098 | PDR 1.000 | delay    7.8 ms | val  | 3.57s
+ep  172 | load 1.06 | R/pkt   8.935 | eps 0.092 | PDR 1.000 | delay   10.6 ms | val  | 3.61s
+ep  173 | load 0.64 | R/pkt   8.830 | eps 0.087 | PDR 1.000 | delay   11.7 ms | val  | 3.52s
+ep  174 | load 0.50 | R/pkt   9.373 | eps 0.082 | PDR 1.000 | delay    6.3 ms | val  | 3.61s
+ep  175 | load 0.78 | R/pkt   9.197 | eps 0.076 | PDR 1.000 | delay    8.0 ms | val  | 3.81s
+ep  176 | load 0.54 | R/pkt   9.334 | eps 0.071 | PDR 1.000 | delay    6.7 ms | val  | 3.71s
+ep  177 | load 1.34 | R/pkt   8.671 | eps 0.066 | PDR 1.000 | delay   13.3 ms | val  | 3.8s
+ep  178 | load 1.69 | R/pkt   9.475 | eps 0.061 | PDR 1.000 | delay    5.2 ms | val  | 3.42s
+ep  179 | load 1.31 | R/pkt   8.778 | eps 0.055 | PDR 1.000 | delay   12.2 ms | val  | 3.55s
+ep  180 | load 1.48 | R/pkt   9.115 | eps 0.050 | PDR 1.000 | delay    8.8 ms | val 7.883 | 3.81s
+ep  181 | load 0.44 | R/pkt   9.283 | eps 0.050 | PDR 1.000 | delay    7.2 ms | val  | 3.68s
+ep  182 | load 0.37 | R/pkt   9.326 | eps 0.050 | PDR 1.000 | delay    6.7 ms | val  | 3.47s
+ep  183 | load 0.69 | R/pkt   9.014 | eps 0.050 | PDR 1.000 | delay    9.9 ms | val  | 3.32s
+ep  184 | load 0.37 | R/pkt   9.015 | eps 0.050 | PDR 1.000 | delay    9.8 ms | val  | 3.54s
+ep  185 | load 0.77 | R/pkt   8.881 | eps 0.050 | PDR 1.000 | delay   11.2 ms | val  | 3.75s
+ep  186 | load 1.08 | R/pkt   8.954 | eps 0.050 | PDR 1.000 | delay   10.5 ms | val  | 4.14s
+ep  187 | load 0.64 | R/pkt   9.045 | eps 0.050 | PDR 1.000 | delay    9.5 ms | val  | 4.03s
+ep  188 | load 1.66 | R/pkt   4.797 | eps 0.050 | PDR 0.925 | delay   29.3 ms | val  | 3.62s
+ep  189 | load 1.24 | R/pkt   8.750 | eps 0.050 | PDR 1.000 | delay   12.5 ms | val  | 3.63s
+ep  190 | load 1.04 | R/pkt   8.886 | eps 0.050 | PDR 1.000 | delay   11.1 ms | val 7.842 | 3.43s
+ep  191 | load 1.05 | R/pkt   8.949 | eps 0.050 | PDR 1.000 | delay   10.5 ms | val  | 3.61s
+ep  192 | load 1.04 | R/pkt   9.468 | eps 0.050 | PDR 1.000 | delay    5.3 ms | val  | 3.59s
+ep  193 | load 1.35 | R/pkt   9.281 | eps 0.050 | PDR 1.000 | delay    7.2 ms | val  | 3.4s
+ep  194 | load 0.73 | R/pkt   9.349 | eps 0.050 | PDR 1.000 | delay    6.5 ms | val  | 3.77s
+ep  195 | load 0.99 | R/pkt   9.206 | eps 0.050 | PDR 1.000 | delay    7.9 ms | val  | 3.7s
+ep  196 | load 1.37 | R/pkt   3.951 | eps 0.050 | PDR 0.837 | delay   26.0 ms | val  | 4.09s
+ep  197 | load 1.82 | R/pkt   9.192 | eps 0.050 | PDR 1.000 | delay    8.1 ms | val  | 3.92s
+ep  198 | load 1.25 | R/pkt   8.912 | eps 0.050 | PDR 1.000 | delay   10.9 ms | val  | 3.65s
+ep  199 | load 1.10 | R/pkt   9.128 | eps 0.050 | PDR 1.000 | delay    8.7 ms | val  | 3.91s
+ep  200 | load 1.38 | R/pkt   8.681 | eps 0.050 | PDR 1.000 | delay   13.2 ms | val 7.832 | 3.84s
+ep  201 | load 1.21 | R/pkt   9.544 | eps 0.050 | PDR 1.000 | delay    4.6 ms | val  | 3.92s
+ep  202 | load 0.53 | R/pkt   9.066 | eps 0.050 | PDR 1.000 | delay    9.3 ms | val  | 3.91s
+ep  203 | load 1.13 | R/pkt   8.901 | eps 0.050 | PDR 1.000 | delay   11.0 ms | val  | 4.12s
+ep  204 | load 1.89 | R/pkt   9.330 | eps 0.050 | PDR 1.000 | delay    6.7 ms | val  | 4.17s
+ep  205 | load 0.33 | R/pkt   8.917 | eps 0.050 | PDR 1.000 | delay   10.8 ms | val  | 3.85s
+ep  206 | load 1.30 | R/pkt   8.764 | eps 0.050 | PDR 1.000 | delay   12.4 ms | val  | 4.18s
+ep  207 | load 0.91 | R/pkt   9.192 | eps 0.050 | PDR 1.000 | delay    8.1 ms | val  | 3.78s
+ep  208 | load 1.10 | R/pkt   9.399 | eps 0.050 | PDR 1.000 | delay    6.0 ms | val  | 3.8s
+ep  209 | load 0.40 | R/pkt   9.301 | eps 0.050 | PDR 1.000 | delay    7.0 ms | val  | 3.34s
+ep  210 | load 1.31 | R/pkt   8.753 | eps 0.050 | PDR 1.000 | delay   12.5 ms | val 7.8 | 3.73s
+ep  211 | load 1.15 | R/pkt   9.445 | eps 0.050 | PDR 1.000 | delay    5.5 ms | val  | 3.5s
+ep  212 | load 1.12 | R/pkt   9.484 | eps 0.050 | PDR 1.000 | delay    5.2 ms | val  | 3.61s
+ep  213 | load 1.67 | R/pkt   8.877 | eps 0.050 | PDR 1.000 | delay   11.2 ms | val  | 3.53s
+ep  214 | load 1.94 | R/pkt   2.322 | eps 0.050 | PDR 0.792 | delay   33.6 ms | val  | 3.75s
+ep  215 | load 0.82 | R/pkt   8.822 | eps 0.050 | PDR 1.000 | delay   11.8 ms | val  | 3.39s
+ep  216 | load 1.75 | R/pkt   4.117 | eps 0.050 | PDR 0.888 | delay   29.2 ms | val  | 3.6s
+ep  217 | load 0.57 | R/pkt   9.049 | eps 0.050 | PDR 1.000 | delay    9.5 ms | val  | 3.5s
+ep  218 | load 1.26 | R/pkt   8.858 | eps 0.050 | PDR 1.000 | delay   11.4 ms | val  | 3.65s
+ep  219 | load 1.70 | R/pkt   9.079 | eps 0.050 | PDR 1.000 | delay    9.0 ms | val  | 3.64s
+ep  220 | load 0.57 | R/pkt   9.053 | eps 0.050 | PDR 1.000 | delay    9.5 ms | val 7.767 | 3.87s
+ep  221 | load 0.51 | R/pkt   9.084 | eps 0.050 | PDR 1.000 | delay    9.2 ms | val  | 3.38s
+ep  222 | load 0.47 | R/pkt   9.054 | eps 0.050 | PDR 1.000 | delay    9.5 ms | val  | 3.34s
+ep  223 | load 0.65 | R/pkt   9.017 | eps 0.050 | PDR 1.000 | delay    9.8 ms | val  | 3.5s
+ep  224 | load 0.52 | R/pkt   9.069 | eps 0.050 | PDR 1.000 | delay    9.3 ms | val  | 3.55s
+ep  225 | load 1.36 | R/pkt   8.684 | eps 0.050 | PDR 1.000 | delay   13.2 ms | val  | 3.66s
+ep  226 | load 1.21 | R/pkt   8.875 | eps 0.050 | PDR 1.000 | delay   11.2 ms | val  | 4.0s
+ep  227 | load 0.79 | R/pkt   9.016 | eps 0.050 | PDR 1.000 | delay    9.8 ms | val  | 3.85s
+ep  228 | load 1.09 | R/pkt   8.995 | eps 0.050 | PDR 1.000 | delay   10.0 ms | val  | 3.44s
+ep  229 | load 1.78 | R/pkt   9.304 | eps 0.050 | PDR 1.000 | delay    7.0 ms | val  | 3.49s
+ep  230 | load 0.48 | R/pkt   9.059 | eps 0.050 | PDR 1.000 | delay    9.4 ms | val 7.83 | 3.93s
+ep  231 | load 0.68 | R/pkt   9.419 | eps 0.050 | PDR 1.000 | delay    5.8 ms | val  | 3.35s
+ep  232 | load 1.61 | R/pkt   5.162 | eps 0.050 | PDR 0.951 | delay   29.1 ms | val  | 3.81s
+ep  233 | load 1.32 | R/pkt   8.790 | eps 0.050 | PDR 1.000 | delay   12.1 ms | val  | 3.98s
+ep  234 | load 1.76 | R/pkt   9.105 | eps 0.050 | PDR 1.000 | delay    8.9 ms | val  | 4.07s
+ep  235 | load 0.71 | R/pkt   9.010 | eps 0.050 | PDR 1.000 | delay    9.9 ms | val  | 3.79s
+ep  236 | load 1.89 | R/pkt   9.211 | eps 0.050 | PDR 1.000 | delay    7.9 ms | val  | 3.9s
+ep  237 | load 1.31 | R/pkt   8.815 | eps 0.050 | PDR 1.000 | delay   11.9 ms | val  | 3.79s
+ep  238 | load 0.99 | R/pkt   8.967 | eps 0.050 | PDR 1.000 | delay   10.3 ms | val  | 3.61s
+ep  239 | load 1.94 | R/pkt   9.006 | eps 0.050 | PDR 1.000 | delay    9.9 ms | val  | 3.77s
+ep  240 | load 1.68 | R/pkt   9.518 | eps 0.050 | PDR 1.000 | delay    4.8 ms | val 7.833 | 3.55s
+ep  241 | load 1.20 | R/pkt   8.669 | eps 0.050 | PDR 1.000 | delay   13.3 ms | val  | 3.93s
+ep  242 | load 1.46 | R/pkt   9.118 | eps 0.050 | PDR 1.000 | delay    8.8 ms | val  | 3.38s
+ep  243 | load 1.09 | R/pkt   8.877 | eps 0.050 | PDR 1.000 | delay   11.2 ms | val  | 3.59s
+ep  244 | load 1.95 | R/pkt   9.464 | eps 0.050 | PDR 1.000 | delay    5.4 ms | val  | 3.3s
+ep  245 | load 0.47 | R/pkt   9.363 | eps 0.050 | PDR 1.000 | delay    6.4 ms | val  | 3.79s
+ep  246 | load 1.16 | R/pkt   3.449 | eps 0.050 | PDR 0.843 | delay   30.5 ms | val  | 3.73s
+ep  247 | load 1.38 | R/pkt   9.467 | eps 0.050 | PDR 1.000 | delay    5.3 ms | val  | 3.55s
+ep  248 | load 1.43 | R/pkt   9.161 | eps 0.050 | PDR 1.000 | delay    8.4 ms | val  | 3.46s
+ep  249 | load 0.92 | R/pkt   4.624 | eps 0.050 | PDR 0.891 | delay   26.9 ms | val  | 3.91s
+ep  250 | load 1.24 | R/pkt   8.899 | eps 0.050 | PDR 1.000 | delay   11.0 ms | val 7.851 | 3.91s
+ep  251 | load 1.51 | R/pkt   9.103 | eps 0.050 | PDR 1.000 | delay    9.0 ms | val  | 3.73s
+ep  252 | load 0.99 | R/pkt   8.995 | eps 0.050 | PDR 1.000 | delay   10.1 ms | val  | 3.91s
+ep  253 | load 1.66 | R/pkt   8.965 | eps 0.050 | PDR 1.000 | delay   10.3 ms | val  | 3.87s
+ep  254 | load 0.72 | R/pkt   9.036 | eps 0.050 | PDR 1.000 | delay    9.6 ms | val  | 3.57s
+ep  255 | load 1.27 | R/pkt   8.987 | eps 0.050 | PDR 1.000 | delay   10.1 ms | val  | 3.44s
+ep  256 | load 1.89 | R/pkt  -0.896 | eps 0.050 | PDR 0.739 | delay   51.1 ms | val  | 3.76s
+ep  257 | load 1.73 | R/pkt   8.951 | eps 0.050 | PDR 1.000 | delay   10.5 ms | val  | 3.54s
+ep  258 | load 0.46 | R/pkt   9.374 | eps 0.050 | PDR 1.000 | delay    6.3 ms | val  | 3.49s
+ep  259 | load 1.50 | R/pkt   8.802 | eps 0.050 | PDR 1.000 | delay   12.0 ms | val  | 3.57s
+ep  260 | load 1.03 | R/pkt   8.808 | eps 0.050 | PDR 1.000 | delay   11.9 ms | val 7.788 | 3.58s
+ep  261 | load 1.95 | R/pkt   2.237 | eps 0.050 | PDR 0.805 | delay   34.3 ms | val  | 3.8s
+ep  262 | load 0.47 | R/pkt   9.065 | eps 0.050 | PDR 1.000 | delay    9.4 ms | val  | 3.35s
+ep  263 | load 0.78 | R/pkt   9.164 | eps 0.050 | PDR 1.000 | delay    8.4 ms | val  | 3.61s
+ep  264 | load 1.88 | R/pkt   7.902 | eps 0.050 | PDR 0.995 | delay   17.1 ms | val  | 3.25s
+ep  265 | load 1.56 | R/pkt   4.184 | eps 0.050 | PDR 0.898 | delay   31.3 ms | val  | 3.67s
+ep  266 | load 0.80 | R/pkt   9.373 | eps 0.050 | PDR 1.000 | delay    6.3 ms | val  | 3.24s
+ep  267 | load 1.94 | R/pkt   2.251 | eps 0.050 | PDR 0.823 | delay   36.8 ms | val  | 3.52s
+ep  268 | load 1.46 | R/pkt   8.953 | eps 0.050 | PDR 1.000 | delay   10.5 ms | val  | 3.15s
+ep  269 | load 0.33 | R/pkt   9.110 | eps 0.050 | PDR 1.000 | delay    8.9 ms | val  | 3.25s
+ep  270 | load 1.71 | R/pkt   3.872 | eps 0.050 | PDR 0.888 | delay   30.7 ms | val 7.829 | 3.67s
+ep  271 | load 1.20 | R/pkt   5.553 | eps 0.050 | PDR 0.931 | delay   24.8 ms | val  | 3.46s
+ep  272 | load 0.69 | R/pkt   8.788 | eps 0.050 | PDR 1.000 | delay   12.1 ms | val  | 3.57s
+ep  273 | load 0.71 | R/pkt   8.889 | eps 0.050 | PDR 1.000 | delay   11.1 ms | val  | 3.32s
+ep  274 | load 1.21 | R/pkt   8.888 | eps 0.050 | PDR 1.000 | delay   11.1 ms | val  | 3.61s
+ep  275 | load 1.25 | R/pkt   8.705 | eps 0.050 | PDR 1.000 | delay   12.9 ms | val  | 3.66s
+ep  276 | load 1.02 | R/pkt   8.954 | eps 0.050 | PDR 1.000 | delay   10.5 ms | val  | 3.55s
+ep  277 | load 1.78 | R/pkt   3.663 | eps 0.050 | PDR 0.877 | delay   31.0 ms | val  | 3.72s
+ep  278 | load 0.99 | R/pkt   8.969 | eps 0.050 | PDR 1.000 | delay   10.3 ms | val  | 3.44s
+ep  279 | load 0.91 | R/pkt   9.350 | eps 0.050 | PDR 1.000 | delay    6.5 ms | val  | 3.41s
+ep  280 | load 1.95 | R/pkt   2.513 | eps 0.050 | PDR 0.819 | delay   33.4 ms | val 7.836 | 3.63s
+ep  281 | load 0.62 | R/pkt   6.552 | eps 0.050 | PDR 0.972 | delay   23.6 ms | val  | 3.89s
+ep  282 | load 1.66 | R/pkt   8.751 | eps 0.050 | PDR 1.000 | delay   12.5 ms | val  | 3.64s
+ep  283 | load 1.51 | R/pkt   6.682 | eps 0.050 | PDR 0.982 | delay   23.8 ms | val  | 3.64s
+ep  284 | load 0.34 | R/pkt   9.098 | eps 0.050 | PDR 1.000 | delay    9.0 ms | val  | 3.46s
+ep  285 | load 0.66 | R/pkt   9.515 | eps 0.050 | PDR 1.000 | delay    4.9 ms | val  | 3.12s
+ep  286 | load 1.58 | R/pkt   9.175 | eps 0.050 | PDR 1.000 | delay    8.3 ms | val  | 3.24s
+ep  287 | load 1.43 | R/pkt   8.288 | eps 0.050 | PDR 1.000 | delay   16.9 ms | val  | 3.76s
+ep  288 | load 1.61 | R/pkt   9.220 | eps 0.050 | PDR 1.000 | delay    7.8 ms | val  | 3.4s
+ep  289 | load 1.05 | R/pkt   8.989 | eps 0.050 | PDR 1.000 | delay   10.1 ms | val  | 3.68s
+ep  290 | load 0.35 | R/pkt   9.240 | eps 0.050 | PDR 1.000 | delay    7.6 ms | val 7.826 | 3.46s
+ep  291 | load 1.71 | R/pkt   3.942 | eps 0.050 | PDR 0.892 | delay   30.3 ms | val  | 3.68s
+ep  292 | load 0.64 | R/pkt   9.321 | eps 0.050 | PDR 1.000 | delay    6.8 ms | val  | 3.61s
+ep  293 | load 1.58 | R/pkt   4.356 | eps 0.050 | PDR 0.925 | delay   32.5 ms | val  | 3.84s
+ep  294 | load 0.69 | R/pkt   9.053 | eps 0.050 | PDR 1.000 | delay    9.5 ms | val  | 3.61s
+ep  295 | load 1.72 | R/pkt   4.019 | eps 0.050 | PDR 0.873 | delay   28.6 ms | val  | 3.71s
+ep  296 | load 1.65 | R/pkt   9.014 | eps 0.050 | PDR 1.000 | delay    9.9 ms | val  | 3.44s
+ep  297 | load 1.55 | R/pkt   6.863 | eps 0.050 | PDR 0.980 | delay   23.2 ms | val  | 3.71s
+ep  298 | load 1.87 | R/pkt   3.108 | eps 0.050 | PDR 0.843 | delay   31.3 ms | val  | 3.52s
+ep  299 | load 0.79 | R/pkt   9.423 | eps 0.050 | PDR 1.000 | delay    5.8 ms | val  | 3.3s
+ep  300 | load 1.31 | R/pkt   9.122 | eps 0.050 | PDR 1.000 | delay    8.8 ms | val 7.844 | 3.67s
+
+Done in 1152s. Best validation score 7.892. Model: /home/claude/drl-qos-routing/models/dqn_router.npz  Log: /home/claude/drl-qos-routing/results/training_log.csv

@@ -1,0 +1,10 @@
+# Core dependencies (native arm64 wheels on macOS Apple Silicon)
+numpy>=1.26
+networkx>=3.2
+matplotlib>=3.8
+pandas>=2.1
+streamlit>=1.32
+pytest>=7.4
+
+# Optional PyTorch backend for the Q-network (not required; default backend is NumPy):
+#   pip install torch
